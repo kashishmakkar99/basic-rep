@@ -10,6 +10,12 @@
         <mxCell id="SHeb1lU5ycLJP6ODYZvT-2" value="Requirements:&lt;div&gt;Logo&lt;/div&gt;&lt;div&gt;Theme for shopify&lt;/div&gt;&lt;div&gt;Domain&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="161" y="148" width="120" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="SHeb1lU5ycLJP6ODYZvT-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="288" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SHeb1lU5ycLJP6ODYZvT-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="385" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
